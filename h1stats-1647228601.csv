@@ -1,0 +1,381 @@
+Program Name,URL,Program Type,Clear Program,Offers Bounties,Max Critical,Max High,Max Medium,Max Low,Average Bounty Max,Average Bounty Min,Top Bounty Max,Top Bounty Min,Resolved Reports,Reports Received in 90 Days,Total Bounties Paid (USD),Total Bounties Paid in 90 Days (USD),Avg Time to First Response (Hours),Avg Time to Triage (Hours),Avg Time to Bounty (Hours),Avg Time to Resolution (Hours),Progam Age (Months),Days Since Last Report
+Dragon,https://hackerone.com/dragon,Public,No,Yes,3000,1000,500,250,250,250,250,250,0,41,250,250,6.0,5.0,31.0,0.0,1,N/A
+Alohi,https://hackerone.com/alohi,Public,No,No,0,0,0,0,0,0,0,0,18,98,0,0,18.0,27.0,0.0,204.0,1,2
+Gymshark,https://hackerone.com/gymshark,Public,No,No,0,0,0,0,0,0,0,0,0,139,0,0,8.0,8.0,0.0,0.0,2,N/A
+Circle,https://hackerone.com/circle,Public,No,No,0,0,0,0,0,0,0,0,3,24,0,0,24.0,25.0,0.0,1384.0,3,45
+Wickr,https://hackerone.com/wickr,Public,No,Yes,100000,25000,10000,1000,0,0,50000,27500,0,99,0,0,9.0,38.0,341.0,0.0,4,N/A
+Payoneer,https://hackerone.com/payoneer,Public,No,Yes,5000,2000,750,100,750,750,2000,1375,5,255,7450,7450,15.0,34.0,262.0,192.0,4,63
+Agoric,https://hackerone.com/agoric,Public,No,Yes,0,0,0,0,0,0,0,0,0,19,0,0,18.0,29.0,0.0,0.0,4,N/A
+SecurityScorecard,https://hackerone.com/securityscorecard,Public,No,No,0,0,0,0,0,0,0,0,5,48,0,0,31.0,86.0,0.0,385.0,4,2
+Auvik,https://hackerone.com/auvik,Public,No,No,0,0,0,0,0,0,0,0,6,43,0,0,22.0,29.0,0.0,289.0,4,52
+Veeam,https://hackerone.com/veeam,Public,No,No,0,0,0,0,0,0,0,0,15,166,0,0,11.0,20.0,0.0,71.0,4,8
+Redis ,https://hackerone.com/redis-vdp,Public,No,No,0,0,0,0,0,0,0,0,0,63,0,0,28.0,44.0,0.0,0.0,4,N/A
+InMobi,https://hackerone.com/inmobi,Public,No,No,0,0,0,0,0,0,0,0,12,396,0,0,17.0,31.0,0.0,0.0,4,39
+Mondelēz International,https://hackerone.com/mondelez,Public,No,No,0,0,0,0,0,0,0,0,84,243,0,0,11.0,22.0,0.0,368.0,5,3
+Gemini,https://hackerone.com/gemini_trust_co_vdp,Public,No,No,0,0,0,0,0,0,0,0,0,25,0,0,8.0,30.0,0.0,0.0,5,N/A
+Horizen,https://hackerone.com/horizen,Public,No,Yes,10000,3000,1000,300,0,0,0,0,2,32,0,0,8.0,14.0,0.0,0.0,5,121
+OpenSea,https://hackerone.com/opensea,Public,No,Yes,50000,10000,3000,500,0,0,0,0,0,453,0,0,0.0,0.0,0.0,0.0,5,2
+Internet Bug Bounty,https://hackerone.com/ibb,Public,No,Yes,10000,5000,3000,600,875,500,25000,2750,688,23,766740,10400,39.0,0.0,0.0,0.0,6,11
+Hy-Vee,https://hackerone.com/hy-vee,Public,No,No,0,0,0,0,0,0,0,0,0,171,0,0,14.0,19.0,0.0,0.0,6,N/A
+GSA Bounty,https://hackerone.com/gsa_bbp,Public,No,Yes,3000,1000,500,250,300,300,2000,750,171,67,59700,500,20.0,85.0,2756.0,2756.0,6,33
+Tenable,https://hackerone.com/tenable,Public,No,No,0,0,0,0,0,0,0,0,6,23,0,0,19.0,107.0,0.0,256.0,6,19
+Snowplow,https://hackerone.com/snowplow,Public,No,No,0,0,0,0,0,0,0,0,5,16,0,0,25.0,20.0,0.0,913.0,6,55
+SEGA,https://hackerone.com/sega,Public,No,No,0,0,0,0,0,0,0,0,24,27,0,0,20.0,41.0,0.0,1022.0,7,2
+EPAM,https://hackerone.com/epam,Public,No,No,0,0,0,0,0,0,0,0,67,71,0,0,19.0,31.0,0.0,1079.0,7,19
+Octopus Energy,https://hackerone.com/octopus-energy,Public,No,No,0,0,0,0,0,0,0,0,9,17,0,0,14.0,18.0,0.0,249.0,7,27
+OneWeb,https://hackerone.com/oneweb,Public,No,No,0,0,0,0,0,0,0,0,18,19,0,0,12.0,31.0,0.0,1109.0,7,38
+Cardano Foundation,https://hackerone.com/cardano-foundation,Public,No,Yes,10000,5000,2000,400,2000,300,2000,2000,0,12,2300,0,34.0,73.0,0.0,0.0,7,N/A
+Trade Republic Bounty,https://hackerone.com/trade-republic-bbp,Public,No,Yes,8500,5000,2000,400,100,100,1500,1500,7,65,3500,250,13.0,15.0,25.0,0.0,7,137
+VanMoof,https://hackerone.com/vanmoof,Public,No,No,0,0,0,0,0,0,0,0,4,15,0,0,35.0,41.0,0.0,0.0,8,137
+Krisp,https://hackerone.com/krisp,Public,No,Yes,5000,1000,500,100,500,100,5000,1000,8,254,10000,5000,18.0,20.0,9.0,862.0,8,23
+MyEtherWallet,https://hackerone.com/myetherwallet,Public,No,Yes,2000,1000,500,250,500,250,500,500,7,18,2200,0,33.0,68.0,0.0,0.0,9,94
+Lacework,https://hackerone.com/lacework,Public,No,No,0,0,0,0,0,0,0,0,9,10,0,0,20.0,169.0,0.0,2163.0,10,16
+JetBlue,https://hackerone.com/jetblue,Public,No,No,0,0,0,0,0,0,0,0,13,230,0,0,31.0,38.0,0.0,351.0,10,12
+Nominet,https://hackerone.com/nominet,Public,No,No,0,0,0,0,0,0,0,0,10,13,0,0,29.0,31.0,0.0,735.0,10,88
+Zebra VDP,https://hackerone.com/zebra_vdp,Public,No,No,0,0,0,0,0,0,0,0,88,18,0,0,18.0,50.0,0.0,1319.0,10,2
+Monzo,https://hackerone.com/monzo,Public,No,No,0,0,0,0,0,0,0,0,14,4,0,0,29.0,102.0,0.0,220.0,10,17
+UPS VDP,https://hackerone.com/ups,Public,No,No,0,0,0,0,0,0,0,0,2,165,0,0,13.0,22.0,0.0,3851.0,10,24
+Proctorio,https://hackerone.com/proctorio,Public,No,No,0,0,0,0,0,0,0,0,0,4,0,0,0.0,0.0,0.0,0.0,11,167
+John Deere,https://hackerone.com/john-deere,Public,No,No,0,0,0,0,0,0,0,0,62,89,0,0,0.0,0.0,0.0,0.0,11,20
+UPchieve,https://hackerone.com/upchieve,Public,No,No,0,0,0,0,0,0,0,0,16,5,0,0,5.0,29.0,0.0,3042.0,11,28
+Kryptor,https://hackerone.com/kryptor,Public,No,No,0,0,0,0,0,0,0,0,1,3,0,0,0.0,0.0,0.0,0.0,11,332
+MCUboot,https://hackerone.com/mcuboot,Public,No,No,0,0,0,0,0,0,0,0,2,4,0,0,1.0,43.0,0.0,0.0,11,307
+Fastify,https://hackerone.com/fastify,Public,No,No,0,0,0,0,0,0,0,0,4,2,0,0,1.0,1.0,0.0,0.0,11,153
+Aktia,https://hackerone.com/aktia,Public,No,No,0,0,0,0,0,0,0,0,3,2,0,0,49.0,49.0,0.0,0.0,11,173
+Securitize,https://hackerone.com/securitize,Public,No,Yes,500,250,100,50,50,50,250,100,7,31,1350,0,152.0,262.0,0.0,0.0,12,103
+M&T Bank Vulnerability Disclosure,https://hackerone.com/mtb,Public,No,No,0,0,0,0,0,0,0,0,31,47,0,0,16.0,39.0,0.0,426.0,12,13
+DIB-VDP Pilot,https://hackerone.com/dib-vdp-pilot,Public,No,No,0,0,0,0,0,0,0,0,224,66,0,0,12.0,12.0,0.0,2449.0,12,2
+Recorded Future,https://hackerone.com/recorded-future,Public,No,Yes,5000,2000,750,250,300,300,2000,1000,11,54,7400,4200,34.0,42.0,23.0,118.0,12,25
+Global Payments,https://hackerone.com/global-payments,Public,No,No,0,0,0,0,0,0,0,0,88,32,0,0,11.0,16.0,275.0,64.0,12,3
+LumiraDx,https://hackerone.com/lumiradx,Public,No,No,0,0,0,0,0,0,0,0,33,23,0,0,23.0,29.0,0.0,0.0,12,16
+BlackRock,https://hackerone.com/blackrock,Public,No,No,0,0,0,0,0,0,0,0,6,7,0,0,22.0,27.0,0.0,0.0,13,124
+Clubhouse,https://hackerone.com/clubhouse,Public,No,Yes,3000,1500,500,100,250,100,1500,1500,32,136,14450,3350,0.0,0.0,0.0,0.0,13,27
+Sifchain,https://hackerone.com/sifchain,Public,No,Yes,50000,20000,5000,1000,100,100,15000,200,26,26,19500,1200,17.0,20.0,95.0,247.0,13,12
+Tennessee Valley Authority,https://hackerone.com/tennessee-valley-authority,Public,No,No,0,0,0,0,0,0,0,0,45,50,0,0,20.0,33.0,0.0,2676.0,13,4
+Costco,https://hackerone.com/costco,Public,No,No,0,0,0,0,0,0,0,0,17,251,0,0,8.0,12.0,0.0,588.0,13,2
+Consensys,https://hackerone.com/consensys,Public,No,Yes,3000,1000,500,250,500,500,5000,1000,39,74,30500,9400,16.0,72.0,228.0,836.0,13,6
+On ,https://hackerone.com/on,Public,No,No,0,0,0,0,0,0,0,0,14,17,0,0,25.0,39.0,0.0,0.0,14,69
+Glovo,https://hackerone.com/glovo,Public,No,No,0,0,0,0,0,0,0,0,43,17,0,0,27.0,223.0,0.0,0.0,14,13
+O1 Labs,https://hackerone.com/o1-labs,Public,No,Yes,10000,5000,2000,500,2000,2000,10000,5000,16,15,51500,10000,148.0,314.0,400.0,637.0,15,30
+Zilliqa,https://hackerone.com/zilliqa,Public,No,Yes,10000,5000,1500,500,6000,1200,10000,10000,4,38,24950,0,23.0,60.0,0.0,0.0,15,145
+WHO COVID-19 Mobile App,https://hackerone.com/who-covid-19-mobile-app,Public,No,No,0,0,0,0,0,0,0,0,7,5,0,0,0.0,0.0,0.0,0.0,15,393
+Stripe,https://hackerone.com/stripe,Public,No,Yes,25000,10000,5000,1000,500,500,10000,2500,86,162,90050,25850,27.0,59.0,211.0,370.0,15,2
+Federal Reserve,https://hackerone.com/federal-reserve,Public,No,No,0,0,0,0,0,0,0,0,52,4,0,0,17.0,57.0,0.0,2741.0,15,82
+eMoney Advisor,https://hackerone.com/emoney-advisor,Public,No,No,0,0,0,0,0,0,0,0,6,2,0,0,27.0,92.0,0.0,10.0,16,46
+Hilton,https://hackerone.com/hilton,Public,No,No,0,0,0,0,0,0,0,0,57,15,0,0,13.0,20.0,0.0,3913.0,16,5
+Judge.me ,https://hackerone.com/judgeme,Public,No,Yes,3000,1250,500,250,500,300,1250,750,62,191,29300,4800,29.0,35.0,83.0,291.0,16,23
+R3,https://hackerone.com/r3,Public,No,No,0,0,0,0,0,0,0,0,14,6,0,0,16.0,32.0,0.0,3071.0,16,6
+Nubank,https://hackerone.com/nubank,Public,No,No,0,0,0,0,0,0,0,0,27,11,0,0,26.0,423.0,0.0,3412.0,17,10
+Citrix Systems,https://hackerone.com/citrix,Public,No,Yes,10000,4000,500,100,100,100,4000,750,134,90,61500,10050,18.0,221.0,408.0,949.0,17,10
+Traffic Factory,https://hackerone.com/trafficfactory,Public,No,Yes,5000,1500,300,50,100,100,1500,300,38,34,9875,150,9.0,13.0,28.0,385.0,17,9
+XVIDEOS,https://hackerone.com/xvideos,Public,No,Yes,5000,1500,300,50,300,200,5000,1500,77,84,42700,900,17.0,48.0,314.0,313.0,17,5
+Checkout ,https://hackerone.com/checkout,Public,No,No,0,0,0,0,0,0,0,0,3,4,0,0,33.0,193.0,0.0,0.0,17,191
+Realogy,https://hackerone.com/realogy,Public,No,No,0,0,0,0,0,0,0,0,127,889,0,0,15.0,21.0,0.0,1412.0,18,5
+U.S. General Services Administration,https://hackerone.com/gsa_vdp,Public,No,No,0,0,0,0,0,0,0,0,76,50,0,0,26.0,54.0,0.0,781.0,18,3
+Zego,https://hackerone.com/zego,Public,No,No,0,0,0,0,0,0,0,0,19,3,0,0,7.0,846.0,0.0,4572.0,18,48
+Ohio Secretary of State,https://hackerone.com/ohiosecretaryofstate,Public,No,No,0,0,0,0,0,0,0,0,36,17,0,0,22.0,31.0,0.0,0.0,18,13
+OpenMage,https://hackerone.com/openmage,Public,No,No,1000,500,250,100,0,0,0,0,0,2,0,0,0.0,0.0,0.0,0.0,19,234
+Jimdo GmbH,https://hackerone.com/jimdo,Public,No,No,0,0,0,0,0,0,0,0,24,9,0,0,27.0,101.0,0.0,5459.0,19,11
+Hud App,https://hackerone.com/hudapp,Public,No,No,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0.0,19,101
+Azbuka Vkusa,https://hackerone.com/av,Public,No,Yes,1000,500,200,100,100,100,2000,300,36,68,10000,5000,36.0,38.0,87.0,0.0,19,120
+BlockFi,https://hackerone.com/blockfi,Public,No,Yes,3000,1000,500,250,250,250,3000,1000,29,20,17500,1000,16.0,18.0,1604.0,178.0,19,18
+A.S. Watson Group ,https://hackerone.com/watson_group,Public,No,Yes,5000,2500,750,250,250,250,5000,2500,94,75,63250,13250,14.0,65.0,158.0,4223.0,20,19
+TikTok,https://hackerone.com/tiktok,Public,No,Yes,15000,10000,4500,500,514,500,15000,2500,312,481,347630,66099,14.0,42.0,52.0,820.0,20,3
+Doppler,https://hackerone.com/doppler,Public,No,No,0,0,0,0,0,0,0,0,40,1,0,0,8.0,8.0,0.0,0.0,20,178
+Dropcontact,https://hackerone.com/dropcontact,Public,No,No,0,0,0,0,0,0,0,0,25,3,0,0,1374.0,2212.0,0.0,3813.0,20,5
+Rockset,https://hackerone.com/rockset,Public,No,No,0,0,0,0,0,0,0,0,14,2,0,0,64.0,64.0,0.0,0.0,20,367
+AIG,https://hackerone.com/aig,Public,No,No,0,0,0,0,0,0,0,0,74,11,0,0,10.0,21.0,0.0,229.0,21,15
+JFrog,https://hackerone.com/jfrog,Public,No,No,0,0,0,0,0,0,0,0,37,36,0,0,11.0,174.0,0.0,0.0,21,26
+FINRA Response,https://hackerone.com/finra,Public,No,No,0,0,0,0,0,0,0,0,17,10,0,0,31.0,30.0,0.0,2720.0,21,4
+Rebellion Defense,https://hackerone.com/rebellion-defense,Public,No,No,0,0,0,0,0,0,0,0,30,9,0,0,19.0,18.0,0.0,0.0,21,33
+Chime,https://hackerone.com/chime,Public,No,Yes,10000,5000,500,100,120,100,10000,5000,61,43,66800,13500,30.0,40.0,181.0,606.0,21,26
+Zivver,https://hackerone.com/zivver,Public,No,No,0,0,0,0,0,0,0,0,18,9,0,0,75.0,115.0,0.0,3330.0,21,72
+Lowe's Response,https://hackerone.com/lowes_vdp,Public,No,No,0,0,0,0,0,0,0,0,87,4,0,0,22.0,114.0,0.0,691.0,22,12
+LaunchDarkly,https://hackerone.com/launchdarkly,Public,No,Yes,4500,1500,750,150,500,150,3000,750,37,61,19150,4650,28.0,41.0,57.0,342.0,22,11
+Matic Network,https://hackerone.com/matic-network,Public,No,Yes,5000,3000,1500,300,2000,2000,2000,2000,9,6,2000,0,44.0,72.0,0.0,0.0,22,101
+SKALE Network,https://hackerone.com/skale_network,Public,No,Yes,50000,5000,2500,100,250,150,5000,5000,3,10,6700,100,40.0,147.0,0.0,0.0,23,240
+Figma,https://hackerone.com/figma,Public,No,Yes,15000,5000,300,150,300,300,6000,2500,76,49,60650,750,38.0,56.0,82.0,11.0,23,88
+Panther Labs,https://hackerone.com/panther_labs,Public,No,Yes,1337,500,250,100,100,100,1000,300,25,5,4875,0,116.0,122.0,0.0,0.0,23,104
+Mendix,https://hackerone.com/mendix,Public,No,No,0,0,0,0,0,0,0,0,55,7,0,0,14.0,14.0,0.0,0.0,23,128
+Amazon Vulnerability Research Program,https://hackerone.com/amazonvrp,Public,No,Yes,20000,5000,500,150,0,0,0,0,469,505,0,0,8.0,18.0,135.0,555.0,24,6
+CS Money,https://hackerone.com/cs_money,Public,No,Yes,5000,1000,300,100,250,200,5000,1000,86,14,0,0,33.0,107.0,92.0,838.0,24,76
+BMW Group,https://hackerone.com/bmwgroup,Public,No,Yes,3000,1000,500,250,0,0,0,0,0,295,0,0,16.0,273.0,1720.0,0.0,24,3
+DigitalOcean,https://hackerone.com/digitalocean,Public,No,No,0,0,0,0,0,0,0,0,128,14,0,0,24.0,43.0,0.0,4536.0,24,18
+Courier,https://hackerone.com/trycourier,Public,No,No,0,0,0,0,0,0,0,0,44,6,0,0,27.0,28.0,0.0,108.0,24,5
+Cedars-Sinai,https://hackerone.com/cedars-sinai,Public,No,No,0,0,0,0,0,0,0,0,56,27,0,0,10.0,23.0,0.0,557.0,24,3
+USPS - United States Postal Service,https://hackerone.com/usps,Public,No,No,0,0,0,0,0,0,0,0,74,7,0,0,23.0,72.0,0.0,182.0,25,18
+Engel & Völkers Technology GmbH,https://hackerone.com/engel_volkers,Public,No,No,0,0,0,0,0,0,0,0,60,29,0,0,22.0,142.0,0.0,890.0,25,39
+Alibaba BBP,https://hackerone.com/alibaba,Public,No,Yes,0,0,0,0,150,150,5300,530,271,236,161853,3990,14.0,37.0,445.0,445.0,25,48
+Gener8,https://hackerone.com/gener8,Public,No,No,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,0.0,26,335
+Meredith,https://hackerone.com/meredith,Public,No,No,0,0,0,0,0,0,0,0,110,23,0,0,26.0,55.0,0.0,1746.0,26,23
+Staging.every.org,https://hackerone.com/stagingdoteverydotorg,Public,No,No,0,0,0,0,0,0,0,0,43,3,0,0,14.0,14.0,0.0,14.0,26,73
+OPPO,https://hackerone.com/oppo,Public,No,Yes,4300,1440,430,70,70,50,4000,500,501,351,143286,5565,101.0,105.0,39.0,2375.0,26,6
+Cirrus Insight,https://hackerone.com/cirrusinsight,Public,No,No,0,0,0,0,0,0,0,0,61,21,0,0,0.0,0.0,0.0,0.0,26,136
+Vend by Lightspeed,https://hackerone.com/vend,Public,No,Yes,6250,2000,500,150,150,150,2500,750,56,154,17260,900,29.0,43.0,34.0,0.0,26,3
+Aiven Ltd,https://hackerone.com/aiven_ltd,Public,No,Yes,10000,3000,1000,150,500,500,5000,3000,54,53,71250,13500,36.0,57.0,78.0,310.0,27,10
+Myndr,https://hackerone.com/myndr,Public,No,No,0,0,0,0,0,0,0,0,27,1,0,0,0.0,389.0,0.0,0.0,27,102
+Faraday. Inc.,https://hackerone.com/faraday_inc,Public,No,Yes,1500,700,250,50,75,75,450,250,18,3,4525,0,8.0,8.0,0.0,0.0,27,157
+PlayStation,https://hackerone.com/playstation,Public,No,Yes,50000,10000,2500,500,400,400,70000,2500,283,118,463550,40450,10.0,41.0,349.0,2531.0,27,23
+Insulet Corporation,https://hackerone.com/insulet_corporation,Public,No,No,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,27,164
+Wells Fargo,https://hackerone.com/wellsfargo,Public,No,No,0,0,0,0,0,0,0,0,94,5,0,0,41.0,90.0,0.0,1062.0,27,24
+InvestNext,https://hackerone.com/investnext,Public,No,No,0,0,0,0,0,0,0,0,7,5,0,0,246.0,246.0,0.0,660.0,28,12
+Simple Poll,https://hackerone.com/simple_poll,Public,No,No,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0.0,28,408
+PUBG,https://hackerone.com/pubg,Public,No,No,0,0,0,0,0,0,0,0,54,21,0,0,20.0,189.0,0.0,3064.0,28,67
+Monolith,https://hackerone.com/monolith,Public,No,Yes,10000,4500,1500,200,1500,1500,4500,4500,7,8,17750,0,33.0,31.0,0.0,0.0,28,297
+PicsArt,https://hackerone.com/picsart,Public,No,No,0,0,0,0,0,0,0,0,31,16,0,0,17.0,612.0,0.0,3050.0,28,12
+Evernote,https://hackerone.com/evernote,Public,No,Yes,5000,2000,750,250,300,300,5000,1500,41,154,29100,7750,20.0,30.0,592.0,7.0,29,5
+FileZilla,https://hackerone.com/filezilla,Public,No,Yes,5000,2500,1000,250,364,283,3643,2500,17,3,11171,0,223.0,223.0,0.0,0.0,29,192
+HCL Software Inc.,https://hackerone.com/hcl_software,Public,No,No,0,0,0,0,0,0,0,0,19,2,0,0,9.0,465.0,0.0,0.0,29,289
+Bitwala,https://hackerone.com/bitwala,Public,No,No,0,0,0,0,0,0,0,0,0,0,0,0,0.0,2014.0,0.0,3419.0,29,12
+Ramp VDP,https://hackerone.com/ramp_vdp,Public,No,No,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0.0,29,731
+Stripo Inc,https://hackerone.com/stripo,Public,No,No,0,0,0,0,0,0,0,0,639,97,0,0,41.0,42.0,0.0,781.0,29,2
+Oasis Protocol Foundation,https://hackerone.com/oasis_protocol_foundation,Public,No,Yes,10000,3000,1000,150,100,50,3000,1000,9,7,4700,0,30.0,30.0,0.0,0.0,29,119
+lemlist,https://hackerone.com/lemlist,Public,No,No,0,0,0,0,0,0,0,0,56,4,0,0,78.0,78.0,0.0,107.0,29,20
+Exodus,https://hackerone.com/exodus,Public,No,Yes,15000,7500,3000,750,350,250,10000,3000,33,35,47800,1700,1.0,2.0,13.0,13.0,29,69
+Magisto,https://hackerone.com/magisto,Public,No,Yes,2000,1000,500,250,400,300,5000,1000,92,63,60000,5000,17.0,40.0,0.0,0.0,29,109
+KeyBank,https://hackerone.com/keybank,Public,No,No,0,0,0,0,0,0,0,0,52,5,0,0,17.0,23.0,0.0,5711.0,29,4
+Topcoder,https://hackerone.com/topcoder,Public,No,No,0,0,0,0,0,0,0,0,123,15,0,0,21.0,22.0,0.0,10093.0,30,34
+Xilinx. now part of AMD – Bug Bounty Program,https://hackerone.com/xilinx_bbp,Public,No,Yes,5000,2500,1000,100,1000,1000,2500,2500,6,13,13200,0,25.0,125.0,0.0,0.0,30,300
+Gmelius,https://hackerone.com/gmelius,Public,No,No,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0.0,30,223
+Thomson Reuters,https://hackerone.com/thomsonreuters-public,Public,No,No,0,0,0,0,0,0,0,0,263,121,0,0,12.0,102.0,291.0,2728.0,30,5
+Streak,https://hackerone.com/streak_com,Public,No,No,0,0,0,0,0,0,0,0,18,1,0,0,5.0,0.0,0.0,0.0,30,265
+UpHabit,https://hackerone.com/uphabit,Public,No,No,0,0,0,0,0,0,0,0,8,3,0,0,0.0,0.0,0.0,0.0,30,412
+GovTech VDP,https://hackerone.com/govtech-vdp,Public,No,No,0,0,0,0,0,0,0,0,723,102,0,0,3.0,177.0,0.0,2009.0,30,-1
+MobiSystems Ltd.,https://hackerone.com/mobisystems_ltd,Public,No,No,0,0,0,0,0,0,0,0,40,1,0,0,87.0,88.0,0.0,0.0,30,229
+Palo Alto Software,https://hackerone.com/palo_alto_software,Public,No,No,0,0,0,0,0,0,0,0,227,4,0,0,1235.0,1289.0,0.0,5420.0,31,66
+Overloop,https://hackerone.com/overloop,Public,No,No,0,0,0,0,0,0,0,0,56,4,0,0,10.0,88.0,0.0,4997.0,31,11
+JNJ Mobile,https://hackerone.com/jnj_mobile,Public,No,No,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0.0,31,406
+Amitree Inc,https://hackerone.com/amitree_inc,Public,No,No,0,0,0,0,0,0,0,0,22,5,0,0,4.0,0.0,0.0,0.0,31,488
+MTN Group,https://hackerone.com/mtn_group,Public,No,No,0,0,0,0,0,0,0,0,2040,424,0,0,497.0,519.0,0.0,649.0,31,3
+Koho,https://hackerone.com/koho,Public,No,No,0,0,0,0,0,0,0,0,23,4,0,0,35.0,19.0,0.0,0.0,31,334
+Qulture.Rocks,https://hackerone.com/qulture_rocks,Public,No,No,200,100,50,25,0,0,0,0,53,1,0,0,0.0,0.0,0.0,4889.0,32,38
+Kubernetes,https://hackerone.com/kubernetes,Public,No,Yes,0,0,0,0,250,200,5000,1250,48,52,40350,9500,25.0,77.0,799.0,1303.0,32,9
+Orion Labs,https://hackerone.com/orion_labs,Public,No,No,0,0,0,0,0,0,0,0,0,2,0,0,49.0,209.0,0.0,0.0,32,586
+CoinSpot,https://hackerone.com/coinspot,Public,No,Yes,10000,2000,500,250,250,250,2000,500,33,29,14750,500,30.0,42.0,1131.0,0.0,32,140
+Equifax,https://hackerone.com/equifax,Public,No,No,0,0,0,0,0,0,0,0,128,17,0,0,9.0,102.0,0.0,816.0,32,6
+ForeScout Technologies,https://hackerone.com/forescout_technologies,Public,No,Yes,3000,2000,1000,500,1000,500,3000,3000,65,18,80500,8000,25.0,1013.0,4557.0,4706.0,32,54
+LINE,https://hackerone.com/line,Public,No,Yes,0,0,0,0,500,475,12500,1989,383,118,255062,4100,21.0,95.0,0.0,1353.0,32,3
+AT&T,https://hackerone.com/att,Public,No,Yes,2000,750,300,50,300,300,4000,750,5682,1651,2472950,220200,11.0,27.0,0.0,0.0,33,-1
+Lark Technologies,https://hackerone.com/lark_technologies,Public,No,Yes,5000,2000,500,100,500,500,5000,1000,285,127,200299,11699,13.0,44.0,27.0,0.0,33,12
+Top Echelon Software,https://hackerone.com/top_echelon_software,Public,No,No,0,0,0,0,0,0,0,0,56,2,0,0,1.0,1.0,0.0,0.0,33,130
+Facebook,https://hackerone.com/facebook,Public,No,Yes,0,0,0,0,0,0,0,0,0,344,0,0,0.0,0.0,0.0,0.0,33,0
+Solidus,https://hackerone.com/solidus,Public,No,No,0,0,0,0,0,0,0,0,9,0,0,0,0.0,521.0,0.0,236.0,33,83
+Upgrade,https://hackerone.com/upgrade,Public,No,No,0,0,0,0,0,0,0,0,8,4,0,0,41.0,41.0,0.0,0.0,33,180
+DataStax,https://hackerone.com/datastax,Public,No,Yes,3000,1000,500,100,500,250,3300,1000,106,59,68450,17250,25.0,68.0,170.0,401.0,33,18
+AODocs,https://hackerone.com/aodocs,Public,No,No,0,0,0,0,0,0,0,0,7,3,0,0,965.0,965.0,0.0,131.0,33,48
+Worklytics,https://hackerone.com/worklytics,Public,No,No,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0.0,33,263
+Mailtime Technology Inc.,https://hackerone.com/mailtime_technology_inc,Public,No,No,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0.0,34,642
+Natur.com GmbH,https://hackerone.com/natur_com_gmbh,Public,No,No,0,0,0,0,0,0,0,0,7,1,0,0,5.0,5.0,0.0,0.0,34,776
+ImpressCMS,https://hackerone.com/impresscms,Public,No,No,0,0,0,0,0,0,0,0,32,3,0,0,3318.0,3546.0,0.0,5075.0,34,21
+Replyify,https://hackerone.com/replyify,Public,No,No,0,0,0,0,0,0,0,0,37,5,0,0,0.0,0.0,0.0,0.0,34,295
+Endless Group,https://hackerone.com/endless_group,Public,No,No,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0.0,34,252
+DefectDojo,https://hackerone.com/defectdojo,Public,No,No,0,0,0,0,0,0,0,0,16,6,0,0,6.0,17.0,0.0,0.0,34,131
+curl,https://hackerone.com/curl,Public,No,Yes,12000,6000,3000,1000,800,700,2000,1200,22,8,16300,0,3.0,40.0,0.0,0.0,35,171
+TomTom,https://hackerone.com/tomtom,Public,No,No,0,0,0,0,0,0,0,0,262,60,0,0,22.0,62.0,0.0,0.0,35,25
+Via,https://hackerone.com/ridewithvia,Public,No,Yes,2000,750,350,150,350,150,2000,750,47,12,17400,400,38.0,86.0,57.0,0.0,35,133
+Allegro,https://hackerone.com/allegro,Public,No,Yes,3000,1000,500,200,500,400,4000,1500,35,28,22720,0,29.0,0.0,0.0,0.0,35,101
+Xiaomi,https://hackerone.com/xiaomi,Public,No,Yes,0,0,0,0,100,80,13000,800,672,249,132925,10807,110.0,174.0,304.0,988.0,35,-1
+Coda,https://hackerone.com/coda_bbp,Public,No,Yes,3000,1000,500,150,150,150,1000,400,43,21,11150,50,40.0,45.0,0.0,0.0,36,144
+Starling Bank Limited,https://hackerone.com/starling_bank,Public,No,No,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0.0,36,290
+Xilinx. now part of AMD – Vulnerability Disclosure Program,https://hackerone.com/xilinx,Public,No,No,0,0,0,0,0,0,0,0,33,2,0,0,29.0,53.0,0.0,0.0,36,198
+Status.im,https://hackerone.com/status_im,Public,No,Yes,25000,3000,500,250,250,250,3000,1000,51,12,28525,1300,1.0,26.0,41.0,38.0,36,11
+Central Security Project,https://hackerone.com/central-security-project,Public,No,No,0,0,0,0,0,0,0,0,11,3,0,0,713.0,713.0,0.0,5799.0,36,16
+Smartsheet,https://hackerone.com/smartsheet,Public,No,Yes,3000,1000,500,100,500,350,3000,1125,126,91,89525,0,31.0,314.0,0.0,9882.0,36,75
+Capital One,https://hackerone.com/capital-one,Public,No,No,0,0,0,0,0,0,0,0,107,15,0,0,21.0,16.0,0.0,5469.0,37,27
+Sweatco Ltd,https://hackerone.com/sweatco_ltd,Public,No,No,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0.0,37,464
+Remitano,https://hackerone.com/remitano,Public,No,Yes,0,0,0,0,100,100,10000,2500,48,27,49100,500,31.0,43.0,90.0,852.0,38,69
+Reddit,https://hackerone.com/reddit,Public,No,Yes,10000,5000,500,100,500,200,10000,3750,252,244,262075,16450,15.0,58.0,514.0,2426.0,38,4
+Zenly,https://hackerone.com/zenly,Public,No,Yes,20000,10000,2000,500,750,750,5000,1500,42,25,38490,1000,12.0,12.0,61.0,67.0,38,30
+Instacart,https://hackerone.com/instacart,Public,No,Yes,15000,7500,3000,500,200,150,20000,2000,369,308,286595,22550,9.0,15.0,902.0,6436.0,38,4
+phpBB,https://hackerone.com/phpbb,Public,No,No,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0.0,39,458
+Ford,https://hackerone.com/ford,Public,No,No,0,0,0,0,0,0,0,0,2057,195,0,0,9.0,12.0,0.0,3645.0,39,3
+Magic,https://hackerone.com/magic-bbp,Public,No,Yes,5000,1500,350,150,125,100,500,350,14,18,3850,400,25.0,49.0,691.0,744.0,39,32
+Kartpay,https://hackerone.com/kartpay,Public,No,No,0,0,0,0,0,0,0,0,182,1,0,0,258.0,0.0,0.0,0.0,39,260
+Mattermost,https://hackerone.com/mattermost,Public,No,Yes,2000,750,300,150,150,150,2200,750,98,94,32700,1100,9.0,11.0,20.0,1128.0,39,5
+Pillar Project Worldwide Limited,https://hackerone.com/pillarproject,Public,No,Yes,3000,1000,500,250,500,250,3000,1000,54,3,28500,0,11.0,16.0,0.0,0.0,40,270
+eToro BBP,https://hackerone.com/etoro_bbp,Public,No,Yes,7500,1500,500,250,250,100,2500,1000,93,168,48600,6150,17.0,30.0,94.0,155.0,40,18
+Python Cryptographic Authority,https://hackerone.com/pyca,Public,No,No,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0.0,40,14
+Drugs.com,https://hackerone.com/drugs_com,Public,No,No,0,0,0,0,0,0,0,0,55,18,0,0,35.0,0.0,0.0,810.0,40,24
+Netlify,https://hackerone.com/netlify,Public,No,Yes,3000,1000,500,200,250,200,5000,1050,93,44,59000,1000,34.0,0.0,181.0,3140.0,40,3
+FanDuel,https://hackerone.com/fanduel,Public,No,Yes,3000,1000,500,100,500,300,3000,1000,0,29,82500,3000,27.0,63.0,352.0,0.0,40,174
+Credit Karma,https://hackerone.com/creditkarma,Public,No,Yes,5000,2250,700,250,500,250,5000,2500,54,9,62250,0,60.0,0.0,0.0,0.0,40,158
+Urban Company,https://hackerone.com/urbancompany,Public,No,Yes,1500,500,250,100,100,100,1500,500,123,46,31450,1900,20.0,21.0,3.0,316.0,41,14
+Nutanix,https://hackerone.com/nutanix,Public,No,No,0,0,0,0,0,0,0,0,117,27,0,0,17.0,0.0,0.0,0.0,41,3
+Flickr,https://hackerone.com/flickr,Public,No,Yes,8500,4000,700,300,250,200,7500,750,82,70,43486,3865,20.0,71.0,363.0,10723.0,42,12
+Matomo,https://hackerone.com/matomo,Public,No,Yes,10000,1000,555,222,242,222,2000,333,140,15,17146,1111,11.0,12.0,222.0,249.0,42,26
+NISC-VDP,https://hackerone.com/nisc,Public,No,No,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0.0,42,300
+ESLint,https://hackerone.com/eslint,Public,No,No,0,0,0,0,0,0,0,0,5,3,0,0,52.0,52.0,0.0,0.0,42,718
+Logitech,https://hackerone.com/logitech,Public,No,Yes,1000,750,500,250,200,200,2750,350,570,117,56450,6100,19.0,56.0,1157.0,2032.0,42,2
+8x8,https://hackerone.com/8x8,Public,No,No,0,0,0,0,0,0,0,0,337,62,0,0,0.0,2.0,0.0,314.0,42,4
+Marriott Bug Bounty Program,https://hackerone.com/marriott,Public,No,Yes,10000,4000,800,300,300,250,6300,1500,580,118,189214,10173,10.0,61.0,401.0,679.0,42,3
+Hyatt Hotels,https://hackerone.com/hyatt,Public,No,Yes,10000,4000,800,300,800,600,25000,4000,443,168,612300,35800,7.0,26.0,463.0,619.0,42,33
+Acronis,https://hackerone.com/acronis,Public,No,Yes,6000,2000,1000,1000,200,150,6000,500,499,305,84974,13800,1.0,41.0,216.0,3115.0,42,5
+Chainlink,https://hackerone.com/chainlink,Public,No,Yes,100000,10000,2000,500,500,250,100000,7500,46,23,180250,11450,24.0,76.0,58.0,0.0,43,58
+Livestream,https://hackerone.com/livestream,Public,No,Yes,2000,1500,700,300,500,350,2000,1000,137,23,80000,5000,16.0,67.0,0.0,0.0,43,124
+PayPal,https://hackerone.com/paypal,Public,No,Yes,20000,10000,1000,100,3200,1900,52000,13200,1323,401,7209721,650791,8.0,0.0,516.0,1275.0,43,2
+MariaDB,https://hackerone.com/mariadb,Public,No,No,0,0,0,0,0,0,0,0,43,5,0,0,484.0,546.0,0.0,3669.0,44,12
+Chaturbate,https://hackerone.com/chaturbate,Public,No,Yes,3000,1000,400,150,200,150,10000,1100,191,16,109399,14050,22.0,619.0,3.0,0.0,44,1
+pixiv,https://hackerone.com/pixiv,Public,No,Yes,5000,2000,500,200,200,200,2000,1000,83,30,43111,2900,45.0,50.0,109.0,0.0,44,17
+CFP Time,https://hackerone.com/cfptime,Public,No,No,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0.0,44,1117
+IBM,https://hackerone.com/ibm,Public,No,No,0,0,0,0,0,0,0,0,3131,369,0,0,9.0,0.0,0.0,1988.0,44,2
+Lob,https://hackerone.com/lob,Public,No,Yes,0,0,0,0,300,200,5000,2500,50,38,49250,600,29.0,61.0,444.0,423.0,45,62
+arkadiyt-projects,https://hackerone.com/arkadiyt-projects,Public,No,No,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,45,N/A
+Liberapay,https://hackerone.com/liberapay,Public,No,Yes,500,300,50,0,50,50,50,50,12,11,100,0,13.0,13.0,0.0,0.0,46,346
+Cosmos,https://hackerone.com/cosmos,Public,No,Yes,5000,3000,1000,200,0,0,0,0,0,10,0,0,0.0,0.0,0.0,0.0,46,44
+DuckDuckGo,https://hackerone.com/duckduckgo,Public,No,No,0,0,0,0,0,0,0,0,55,18,0,0,24.0,18.0,0.0,0.0,46,115
+Affirm,https://hackerone.com/affirm,Public,No,Yes,3000,1500,500,250,300,250,2000,1000,41,14,22900,1600,30.0,0.0,305.0,215.0,46,33
+RATELIMITED,https://hackerone.com/ratelimited,Public,No,No,0,0,0,0,0,0,0,0,176,0,0,0,2512.0,2512.0,0.0,0.0,47,520
+Crypto.com,https://hackerone.com/crypto,Public,No,Yes,20000,10000,1400,600,0,0,0,0,142,60,165461,26820,0.0,0.0,0.0,0.0,47,12
+GoodRx,https://hackerone.com/goodrx,Public,No,Yes,15000,7500,2500,750,300,250,5000,750,143,22,50000,5000,43.0,53.0,16.0,102.0,48,17
+Loofah,https://hackerone.com/loofah,Public,No,No,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0.0,48,477
+Node.js,https://hackerone.com/nodejs,Public,No,Yes,0,0,0,0,250,250,500,250,41,11,6150,0,7.0,173.0,0.0,285.0,48,61
+Nokogiri,https://hackerone.com/nokogiri,Public,No,No,0,0,0,0,0,0,0,0,7,1,0,0,14.0,0.0,0.0,0.0,48,166
+Ping Identity,https://hackerone.com/pingidentity,Public,No,Yes,10000,4000,600,300,300,300,10000,750,63,20,58650,3900,39.0,0.0,0.0,0.0,48,3
+Flutter UK&I,https://hackerone.com/flutteruki,Public,No,Yes,3000,1500,500,200,300,250,4320,900,279,71,160000,5000,28.0,0.0,88.0,3069.0,49,5
+JamieWeb,https://hackerone.com/jamieweb,Public,No,No,0,0,0,0,0,0,0,0,0,1,0,0,120.0,120.0,0.0,0.0,49,315
+Toyota,https://hackerone.com/toyota,Public,No,No,0,0,0,0,0,0,0,0,0,145,0,0,0.0,0.0,0.0,0.0,49,2
+IOVLabs,https://hackerone.com/iovlabs,Public,No,Yes,10000,5000,2500,1000,1000,750,10000,4000,14,6,32450,300,8.0,9.0,224.0,1936.0,49,20
+BitMEX,https://hackerone.com/bitmex,Public,No,Yes,10000,5000,1500,300,0,0,5000,2500,49,28,46387,200,36.0,0.0,0.0,0.0,49,47
+passhash,https://hackerone.com/passhash,Public,No,No,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0.0,50,326
+Crowdstrike,https://hackerone.com/crowdstrike,Public,No,Yes,5000,2000,500,250,0,0,0,0,0,14,0,0,0.0,0.0,0.0,0.0,50,57
+Databricks,https://hackerone.com/databricks,Public,No,Yes,5000,1000,400,150,200,200,2000,650,130,249,68195,6000,17.0,23.0,89.0,1484.0,50,8
+Coalition. Inc.,https://hackerone.com/coalition,Public,No,No,0,0,0,0,0,0,0,0,14,3,0,0,11.0,0.0,0.0,16.0,50,25
+Elastic,https://hackerone.com/elastic,Public,No,Yes,7000,3000,1500,700,250,200,10000,2000,179,274,256894,32169,13.0,0.0,113.0,560.0,51,19
+Goldman Sachs,https://hackerone.com/goldmansachs,Public,No,Yes,0,0,0,0,250,250,17000,2500,248,24,306350,26000,7.0,10.0,594.0,2954.0,52,6
+Tube8,https://hackerone.com/tube8,Public,No,Yes,2000,750,300,100,0,0,5000,2500,0,12,55060,510,14.0,0.0,7.0,0.0,52,107
+Smule,https://hackerone.com/smule,Public,No,No,0,0,0,0,0,0,0,0,83,12,0,0,53.0,53.0,0.0,116.0,52,9
+LifeOmic,https://hackerone.com/lifeomic,Public,No,Yes,1500,750,500,100,300,200,1500,750,88,22,30600,2550,18.0,0.0,375.0,589.0,52,11
+Kindred Group,https://hackerone.com/kindred_group,Public,No,Yes,7000,3500,800,150,300,150,5500,1000,287,90,146049,10100,27.0,0.0,29.0,2306.0,52,2
+Ed,https://hackerone.com/ed,Public,No,No,0,0,0,0,0,0,0,0,12,1,0,0,2.0,2.0,0.0,3.0,52,53
+Yoti,https://hackerone.com/yoti,Public,No,Yes,3000,1000,500,150,350,150,3000,750,71,17,38875,0,637.0,0.0,0.0,3790.0,53,25
+RBKmoney,https://hackerone.com/rbkmoney,Public,No,No,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,53,236
+Valve,https://hackerone.com/valve,Public,No,Yes,0,0,0,0,750,750,20000,2500,833,105,1601950,29500,54.0,0.0,2263.0,6238.0,53,40
+Epic Games,https://hackerone.com/epicgames,Public,No,Yes,15000,10000,3000,500,500,500,15000,5000,702,1235,1815700,676400,6.0,38.0,268.0,629.0,53,2
+Sony,https://hackerone.com/sony,Public,No,No,0,0,0,0,0,0,0,0,1989,636,0,0,0.0,0.0,0.0,0.0,53,2
+JohnBlackbourn,https://hackerone.com/johnblackbourn,Public,No,No,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,54,N/A
+Grammarly,https://hackerone.com/grammarly,Public,No,Yes,100000,25000,5000,500,400,200,10500,2500,170,66,145502,0,29.0,33.0,0.0,0.0,54,66
+Deliveroo,https://hackerone.com/deliveroo,Public,No,Yes,0,0,0,0,500,300,5000,1500,146,29,102300,3900,29.0,0.0,183.0,242.0,55,10
+Infogram,https://hackerone.com/infogram,Public,No,No,0,0,0,0,0,0,0,0,264,1,0,0,5.0,0.0,0.0,0.0,55,392
+Hyperledger,https://hackerone.com/hyperledger,Public,No,Yes,2000,1500,500,200,200,200,1500,500,20,8,5325,725,82.0,0.0,102.0,148.0,55,53
+Monero,https://hackerone.com/monero,Public,No,No,0,0,0,0,0,0,0,0,41,8,0,0,82.0,0.0,0.0,7668.0,55,72
+Vanilla,https://hackerone.com/vanilla,Public,No,Yes,600,300,150,50,150,150,600,300,311,21,68600,500,124.0,0.0,1871.0,3706.0,56,41
+Bitwarden,https://hackerone.com/bitwarden,Public,No,No,0,0,0,0,0,0,0,0,38,10,0,0,16.0,0.0,0.0,0.0,56,124
+delight.im,https://hackerone.com/delight_im,Public,No,No,0,0,0,0,0,0,0,0,15,1,0,0,120.0,0.0,0.0,0.0,56,571
+Upserve ,https://hackerone.com/upserve,Public,No,Yes,2025,1225,400,25,500,250,4000,2500,103,13,77391,0,28.0,27.0,0.0,0.0,57,257
+WakaTime,https://hackerone.com/wakatime,Public,No,No,0,0,0,0,0,0,0,0,208,0,0,0,0.0,0.0,0.0,0.0,57,332
+Redtube,https://hackerone.com/redtube,Public,No,Yes,5000,2000,750,250,0,0,0,0,0,18,0,0,6.0,0.0,0.0,3258.0,57,5
+Parrot Sec,https://hackerone.com/parrot_sec,Public,No,No,0,0,0,0,0,0,0,0,19,4,0,0,0.0,0.0,0.0,0.0,57,199
+Bumble,https://hackerone.com/bumble,Public,No,Yes,3000,2000,600,300,280,200,3000,600,237,34,77410,800,6.0,0.0,96.0,423.0,57,4
+Trustpilot,https://hackerone.com/trustpilot,Public,No,Yes,2000,750,300,150,200,150,3000,500,124,19,38770,1100,47.0,0.0,324.0,311.0,57,4
+Omise,https://hackerone.com/omise,Public,No,Yes,800,400,200,100,100,100,700,250,144,45,12500,400,17.0,0.0,543.0,272.0,57,3
+Spotify,https://hackerone.com/spotify,Public,No,Yes,2000,700,300,250,300,300,3000,700,901,358,338912,10200,7.0,0.0,468.0,559.0,58,2
+Cuvva,https://hackerone.com/cuvva,Public,No,No,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0.0,58,118
+Roblox,https://hackerone.com/roblox,Public,No,Yes,10000,5000,1000,300,750,500,10000,2650,426,157,530000,65000,35.0,0.0,431.0,1290.0,58,3
+Teradici,https://hackerone.com/teradici,Public,No,Yes,0,0,0,0,500,500,1000,1000,23,1,1800,0,0.0,0.0,0.0,0.0,58,263
+Stellar.org,https://hackerone.com/stellar,Public,No,No,0,0,0,0,0,0,0,0,37,6,0,0,32.0,0.0,0.0,430.0,58,39
+Rocket.Chat,https://hackerone.com/rocket_chat,Public,No,No,0,0,0,0,0,0,0,0,142,4,0,0,76.0,0.0,0.0,5105.0,59,5
+Homebrew,https://hackerone.com/homebrew,Public,No,No,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0.0,59,200
+Weblate,https://hackerone.com/weblate,Public,No,No,0,0,0,0,0,0,0,0,134,7,0,0,18.0,0.0,0.0,32.0,59,19
+Shipt,https://hackerone.com/shipt,Public,No,Yes,3000,2000,1000,200,0,0,0,0,134,20,0,0,19.0,55.0,0.0,9463.0,59,41
+Disclosure Assistance,https://hackerone.com/disclosure-assistance,Public,No,No,0,0,0,0,0,0,0,0,0,252,0,0,0.0,0.0,0.0,0.0,60,31
+Nord Security,https://hackerone.com/nordsecurity,Public,No,Yes,50000,1000,500,100,0,0,0,0,150,22,0,0,0.0,0.0,0.0,0.0,61,95
+Lyst,https://hackerone.com/lyst,Public,No,Yes,5000,1000,300,100,150,100,1400,500,83,32,21850,0,17.0,0.0,0.0,0.0,62,164
+Alvosec,https://hackerone.com/alvosec,Public,No,Yes,0,0,0,0,0,0,0,0,0,0,10000,5000,0.0,0.0,0.0,0.0,62,832
+Showmax,https://hackerone.com/showmax,Public,No,Yes,2500,1500,750,200,200,150,2500,500,178,24,43523,896,10.0,14.0,119.0,209.0,62,23
+YouPorn,https://hackerone.com/youporn,Public,No,Yes,5000,2000,750,250,0,0,0,0,0,15,0,0,7.0,0.0,31.0,11196.0,63,13
+Discourse,https://hackerone.com/discourse,Public,No,Yes,2048,1024,512,256,256,256,2048,512,120,23,39546,1536,35.0,0.0,326.0,178.0,63,48
+Helium,https://hackerone.com/helium,Public,No,Yes,1000,500,100,50,100,100,500,400,69,14,9075,0,498.0,0.0,0.0,0.0,63,102
+Enjin,https://hackerone.com/enjin,Public,No,Yes,1500,500,300,100,60,60,0,0,25,22,2225,50,8.0,20.0,0.0,0.0,63,39
+Nintendo,https://hackerone.com/nintendo,Public,No,Yes,0,0,0,0,2048,1800,12168,6728,86,7,210000,5000,0.0,0.0,0.0,0.0,63,48
+Casper,https://hackerone.com/casper,Public,No,Yes,3000,1500,500,200,250,200,3000,675,112,21,40099,50,29.0,0.0,65.0,65.0,63,23
+U.S. Dept Of Defense,https://hackerone.com/deptofdefense,Public,No,No,0,0,0,0,0,0,0,0,19913,2282,0,0,6.0,6.0,0.0,0.0,64,3
+Plaid,https://hackerone.com/plaid,Public,No,Yes,0,0,0,0,225,150,2500,500,63,14,20000,5000,34.0,0.0,0.0,0.0,64,95
+Semrush,https://hackerone.com/semrush,Public,No,Yes,5000,2000,500,100,150,100,5000,600,566,88,200000,5000,8.0,53.0,63.0,2494.0,65,26
+Quora,https://hackerone.com/quora,Public,No,Yes,11000,3500,2000,500,250,200,8000,750,247,56,120000,10000,49.0,0.0,1969.0,1902.0,65,4
+Brave Software,https://hackerone.com/brave,Public,No,Yes,1000,500,250,100,100,100,5300,500,237,43,60115,3900,15.0,0.0,412.0,254.0,65,2
+PortSwigger Web Security,https://hackerone.com/portswigger,Public,No,Yes,10000,3000,1000,0,400,350,5000,1000,58,13,25050,6050,25.0,0.0,371.0,0.0,66,2
+RubyGems,https://hackerone.com/rubygems,Public,No,Yes,0,0,0,0,500,500,1500,1500,70,14,12400,0,26.0,0.0,0.0,3035.0,66,6
+Files.com,https://hackerone.com/files,Public,No,Yes,10000,2500,500,100,200,200,6000,750,202,8,80349,0,118.0,105.0,0.0,0.0,67,134
+Hiro,https://hackerone.com/hiro,Public,No,Yes,0,0,0,0,150,150,1000,400,37,4,8600,200,13.0,0.0,96.0,96.0,67,80
+Scopely,https://hackerone.com/scopely,Public,No,Yes,3000,1500,900,300,750,500,5000,2500,185,107,190000,5000,17.0,0.0,1381.0,5472.0,68,26
+WordPress,https://hackerone.com/wordpress,Public,No,Yes,0,0,0,0,0,0,0,0,0,67,0,0,0.0,0.0,0.0,0.0,68,26
+Aspen,https://hackerone.com/aspen,Public,No,No,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0.0,68,1627
+GoCD,https://hackerone.com/gocd,Public,No,No,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,5.0,69,6
+Bitso,https://hackerone.com/bitso,Public,No,Yes,10000,3000,1000,100,100,100,10000,1000,117,22,56570,150,0.0,0.0,0.0,0.0,69,55
+VHX,https://hackerone.com/vhx,Public,No,Yes,2000,1500,700,300,350,250,2000,1100,210,37,110000,5000,23.0,39.0,0.0,0.0,69,103
+Nextcloud,https://hackerone.com/nextcloud,Public,No,Yes,0,0,0,0,150,100,4000,750,337,51,48193,300,67.0,0.0,2694.0,1141.0,69,6
+SecNews,https://hackerone.com/secnews,Public,No,Yes,0,0,0,0,250,250,300,300,11,33,10000,5000,623.0,0.0,0.0,0.0,69,1795
+Starbucks,https://hackerone.com/starbucks,Public,No,Yes,6000,2000,800,200,500,250,8000,4000,1376,202,780000,10000,8.0,34.0,42.0,1724.0,70,1
+Ruby,https://hackerone.com/ruby,Public,No,Yes,0,0,0,0,500,500,1500,500,40,11,15450,0,90.0,0.0,0.0,2358.0,70,53
+Rockstar Games,https://hackerone.com/rockstargames,Public,No,Yes,0,0,0,0,0,0,0,0,0,44,0,0,0.0,0.0,0.0,0.0,71,16
+GitHub,https://hackerone.com/github,Public,No,Yes,30000,20000,10000,2000,617,617,50000,7500,938,456,2208837,169772,10.0,47.0,383.0,440.0,71,2
+Open-Xchange,https://hackerone.com/open-xchange,Public,No,Yes,5000,2000,750,250,400,300,5000,850,414,11,150000,5000,7.0,0.0,50.0,70.0,72,2
+LocalTapiola,https://hackerone.com/localtapiola,Public,No,Yes,0,0,0,0,250,100,18000,700,299,44,162569,13240,29.0,0.0,72.0,0.0,73,12
+Home Bargains,https://hackerone.com/homebargains,Public,No,Yes,0,0,0,0,0,0,0,0,35,1,10000,5000,14.0,0.0,0.0,0.0,73,172
+MainWP,https://hackerone.com/mainwp,Public,No,Yes,0,0,0,0,0,0,0,0,77,6,9410,450,0.0,0.0,3963.0,0.0,73,80
+bitaccess,https://hackerone.com/bitaccess,Public,No,Yes,0,0,0,0,50,50,200,100,0,1,0,0,4321.0,0.0,0.0,0.0,73,390
+Paragon Initiative Enterprises,https://hackerone.com/paragonie,Public,No,Yes,0,0,0,0,50,50,100,100,17,0,10000,5000,0.0,0.0,0.0,0.0,74,1423
+Zomato,https://hackerone.com/zomato,Public,No,Yes,4000,2000,1000,300,250,200,5000,1000,933,171,272249,6562,1.0,1.0,23.0,561.0,74,10
+New Relic,https://hackerone.com/newrelic,Public,No,Yes,5120,2048,1024,512,600,512,8000,2500,499,72,443245,45450,49.0,81.0,54.0,438.0,74,12
+Unikrn,https://hackerone.com/unikrn,Public,No,Yes,0,0,0,0,50,40,400,150,205,6,15625,0,317.0,355.0,0.0,0.0,74,180
+General Motors,https://hackerone.com/gm,Public,No,No,0,0,0,0,0,0,0,0,0,15,0,0,0.0,0.0,0.0,0.0,74,11
+Tor,https://hackerone.com/torproject,Public,No,Yes,4000,2000,1000,100,250,200,3000,500,41,7,11200,0,85.0,0.0,0.0,0.0,75,217
+GlobaLeaks,https://hackerone.com/globaleaks,Public,No,No,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0.0,77,300
+Binary.com,https://hackerone.com/binary,Public,No,Yes,10000,5000,500,0,0,0,500,200,118,11,11660,0,12.0,12.0,0.0,1011.0,77,86
+CodeIgniter,https://hackerone.com/codeigniter,Public,No,No,0,0,0,0,0,0,0,0,16,2,0,0,2107.0,0.0,0.0,0.0,77,1459
+Glassdoor,https://hackerone.com/glassdoor,Public,No,Yes,2500,1000,500,100,500,400,6000,1500,755,116,480000,25000,20.0,37.0,242.0,1439.0,77,3
+Tinder,https://hackerone.com/tinder,Public,No,Yes,10000,4000,1000,250,500,500,10000,1000,91,103,65550,2250,0.0,0.0,0.0,0.0,78,5
+FetLife,https://hackerone.com/fetlife,Public,No,Yes,0,0,0,0,0,0,1000,500,201,73,42002,1452,65.0,99.0,10.0,396.0,78,24
+Radancy,https://hackerone.com/radancy,Public,No,Yes,550,450,250,100,50,30,500,100,261,25,10000,5000,40.0,0.0,458.0,905.0,78,17
+Version Cake,https://hackerone.com/versioncake,Public,No,No,0,0,0,0,0,0,0,0,1,1,0,0,5.0,0.0,0.0,0.0,79,1608
+Algolia,https://hackerone.com/algolia,Public,No,Yes,0,0,0,0,100,100,3000,500,225,38,41385,4000,33.0,0.0,70.0,358.0,79,16
+ownCloud,https://hackerone.com/owncloud,Public,No,Yes,5000,2000,500,50,250,150,2000,500,249,12,17350,150,0.0,0.0,0.0,0.0,79,20
+Grab,https://hackerone.com/grab,Public,No,Yes,10000,5000,2000,500,500,200,10000,2000,612,70,651125,17300,6.0,82.0,217.0,0.0,79,2
+CERT/CC,https://hackerone.com/cert,Public,No,No,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0.0,79,977
+Revive Adserver,https://hackerone.com/revive_adserver,Public,No,No,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,0.0,80,202
+Pornhub,https://hackerone.com/pornhub,Public,No,Yes,5000,2000,750,250,0,0,20000,1500,461,37,316851,2231,8.0,61.0,129.0,0.0,81,11
+Moneybird,https://hackerone.com/moneybird,Public,No,Yes,0,0,0,0,50,50,500,100,155,14,10000,5000,33.0,0.0,28.0,4020.0,81,12
+Dashlane,https://hackerone.com/dashlane,Public,No,Yes,5000,1500,500,200,200,200,1500,600,244,18,70000,5000,21.0,268.0,311.0,2018.0,81,10
+Coursera,https://hackerone.com/coursera,Public,No,No,0,0,0,0,0,0,0,0,151,14,0,0,433.0,0.0,0.0,0.0,82,110
+Robinhood,https://hackerone.com/robinhood,Public,No,Yes,25000,10000,5000,500,300,150,25000,4379,96,33,176735,7579,9.0,18.0,28.0,0.0,82,13
+Udemy,https://hackerone.com/udemy,Public,No,Yes,2000,750,300,100,100,100,2000,300,371,67,70000,5000,35.0,0.0,1636.0,1588.0,82,30
+Zendesk,https://hackerone.com/zendesk,Public,No,Yes,5000,2000,750,250,100,100,6000,500,580,109,0,0,23.0,0.0,115.0,0.0,83,4
+Basecamp,https://hackerone.com/basecamp,Public,No,Yes,5000,1000,250,100,250,200,8000,1000,268,64,234730,6750,27.0,44.0,524.0,5069.0,83,18
+Shopify,https://hackerone.com/shopify,Public,No,Yes,50000,30000,10000,1000,800,500,50000,3500,1388,661,1984073,176700,18.0,25.0,103.0,1564.0,83,4
+Mapbox,https://hackerone.com/mapbox,Public,No,Yes,2500,750,300,100,500,300,10000,1000,326,31,193900,1650,13.0,0.0,0.0,0.0,84,2
+Invision Power Services. Inc.,https://hackerone.com/ips,Public,No,Yes,0,0,0,0,0,0,0,0,0,1,0,0,53.0,0.0,0.0,0.0,84,156
+Airbnb,https://hackerone.com/airbnb,Public,No,Yes,0,0,0,0,750,500,15000,2500,948,121,1270306,61650,11.0,0.0,675.0,540.0,85,12
+Airtable,https://hackerone.com/airtable,Public,No,Yes,3500,750,400,200,100,100,5000,500,202,37,80704,1100,0.0,0.0,0.0,0.0,85,43
+Adobe,https://hackerone.com/adobe,Public,No,Yes,0,0,0,0,0,0,0,0,5718,362,0,0,0.0,0.0,0.0,0.0,85,2
+FormAssembly,https://hackerone.com/formassembly,Public,No,No,0,0,0,0,0,0,0,0,203,2,0,0,0.0,0.0,0.0,0.0,85,61
+Blockchain,https://hackerone.com/blockchain,Public,No,Yes,2000,750,300,50,100,100,2000,525,108,25,32525,1375,30.0,0.0,56.0,21662.0,85,17
+Ubiquiti Inc.,https://hackerone.com/ui,Public,No,Yes,30000,8959,995,150,250,150,30000,1925,1217,88,1110000,35000,7.0,14.0,144.0,1171.0,86,2
+Snapchat,https://hackerone.com/snapchat,Public,No,Yes,35000,20000,10000,4000,250,250,25000,1500,406,221,473567,25500,14.0,0.0,324.0,3792.0,86,9
+Priceline,https://hackerone.com/priceline,Public,No,Yes,5000,2000,1000,200,250,250,3000,1000,536,43,170000,5000,40.0,99.0,233.0,966.0,87,41
+Imgur,https://hackerone.com/imgur,Public,No,Yes,0,0,0,0,100,100,5000,750,191,80,100000,5000,130.0,0.0,0.0,3098.0,87,48
+Uber,https://hackerone.com/uber,Public,No,Yes,15000,10000,2500,750,750,500,50000,3500,1814,136,2859513,32850,8.0,28.0,792.0,1663.0,87,3
+Yelp,https://hackerone.com/yelp,Public,No,Yes,0,0,0,0,500,300,15000,800,316,32,140000,5000,245.0,0.0,836.0,972.0,87,8
+Informatica,https://hackerone.com/informatica,Public,No,No,0,0,0,0,0,0,0,0,474,44,0,0,16.0,21.0,0.0,577.0,88,13
+Vimeo,https://hackerone.com/vimeo,Public,No,Yes,5000,2000,1000,500,500,300,5000,1500,710,99,380000,5000,17.0,65.0,77.0,6929.0,88,26
+WordPoints,https://hackerone.com/wordpoints,Public,No,Yes,0,0,0,0,25,25,35,35,7,2,165,0,194.0,0.0,0.0,0.0,89,1187
+Dropbox,https://hackerone.com/dropbox,Public,No,Yes,0,0,0,0,512,250,32768,2916,708,80,1015401,66947,22.0,84.0,436.0,1189.0,89,13
+GlassWire,https://hackerone.com/glasswire,Public,No,Yes,0,0,0,0,100,100,750,300,62,3,3695,0,0.0,0.0,0.0,0.0,91,216
+Greenhouse.io,https://hackerone.com/greenhouse,Public,No,Yes,2000,1000,500,250,250,100,2000,1000,146,12,50050,0,35.0,44.0,0.0,953.0,91,65
+ExpressionEngine,https://hackerone.com/expressionengine,Public,No,No,0,0,0,0,0,0,0,0,185,6,0,0,122.0,0.0,0.0,0.0,92,94
+GitLab,https://hackerone.com/gitlab,Public,No,Yes,35000,15000,2500,750,1000,950,29000,5000,984,140,1941089,101640,17.0,0.0,513.0,4418.0,93,5
+Harvest,https://hackerone.com/harvest,Public,No,Yes,2500,1000,500,100,0,0,2000,500,233,25,38750,0,1892.0,1740.0,0.0,0.0,93,86
+Twitter,https://hackerone.com/twitter,Public,No,Yes,0,0,0,0,560,560,20160,2940,1413,354,1481649,29820,9.0,0.0,908.0,3395.0,94,12
+Urban Dictionary,https://hackerone.com/urbandictionary,Public,No,Yes,0,0,0,0,0,0,0,0,110,6,0,0,0.0,0.0,0.0,0.0,94,66
+Ian Dunn,https://hackerone.com/iandunn-projects,Public,No,Yes,0,0,0,0,50,50,250,100,15,0,1150,0,0.0,0.0,0.0,0.0,95,1123
+Cloudflare Public Bug Bounty,https://hackerone.com/cloudflare,Public,No,Yes,0,0,0,0,50,50,3000,500,7,94,16250,16250,23.0,77.0,99.0,0.0,95,2
+Automattic,https://hackerone.com/automattic,Public,No,Yes,0,0,0,0,0,0,0,0,0,80,0,0,0.0,0.0,0.0,0.0,95,10
+IRCCloud,https://hackerone.com/irccloud,Public,No,Yes,0,0,0,0,100,100,1000,500,198,18,23050,450,0.0,0.0,0.0,0.0,95,39
+Khan Academy,https://hackerone.com/khanacademy,Public,No,No,0,0,0,0,0,0,0,0,236,10,0,0,10.0,0.0,0.0,152.0,95,47
+Coinbase,https://hackerone.com/coinbase,Public,No,Yes,50000,15000,2000,200,200,150,250000,2000,577,104,831231,274950,0.0,51.0,215.0,0.0,96,12
+Concrete CMS,https://hackerone.com/concretecms,Public,No,No,0,0,0,0,0,0,0,0,272,12,0,0,44.0,0.0,0.0,19435.0,96,58
+Slack,https://hackerone.com/slack,Public,No,Yes,5000,2500,1000,250,500,500,15000,1500,1334,150,1023495,46200,0.0,0.0,0.0,0.0,97,18
+Yahoo!,https://hackerone.com/yahoo,Public,No,Yes,10000,3000,500,100,500,500,40000,6250,10640,366,21870000,270000,11.0,98.0,886.0,0.0,97,3
+Phabricator,https://hackerone.com/phabricator,Public,No,Yes,0,0,0,0,300,300,1000,875,49,14,17250,0,12.0,0.0,0.0,0.0,99,261
+Ruby on Rails,https://hackerone.com/rails,Public,No,Yes,0,0,0,0,1000,1000,2000,1500,55,12,39750,0,175.0,0.0,0.0,2773.0,99,40
+Django,https://hackerone.com/django,Public,No,Yes,0,0,0,0,500,500,3000,1000,15,8,10000,5000,0.0,0.0,0.0,1.0,99,87
+HackerOne,https://hackerone.com/security,Public,No,Yes,25000,12500,2500,500,500,500,20000,2500,510,382,462324,2000,24.0,34.0,1509.0,28.0,100,18
