@@ -5,6 +5,8 @@ This data is encoded in CSV format for viewing in spreadsheet applications like 
 nightly and named as `h1stats-<unix_time_stamp>.csv`. You can use the encoded unix time stamp to determine the date which
 the data was captured (Timezone: EST/EDT). Feel free to use this data for your own analytical purposes.
 
+Date of first entry: `Feb 23 2022`
+
 For more information on the @h1stats robot, visit: https://reconfig.io/h1/
 
 The script used to obtain this data from h1 is found here: https://github.com/defparam/h1stats
